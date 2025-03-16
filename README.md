@@ -24,6 +24,10 @@ This project is a Flask-based REST API that connects to a MySQL database, provid
 │── README.md           # Project documentation
 ```
 
+## Note
+To replicate this code on your own machine it's important to install MySQL Server and create a 
+schema named `storedata` in MySQL Workbench.
+
 ## Setup Instructions
 ### 1. Install Dependencies
 Ensure you have Python installed. Then, install the required dependencies:
