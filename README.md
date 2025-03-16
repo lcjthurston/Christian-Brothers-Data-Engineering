@@ -70,6 +70,11 @@ Content-Type: application/json
 }
 ```
 
+### 5. Testing Endpoints
+To ensure that this application works as expected it's necessary to test the endpoints with real data.
+I recommend testing with an API development platform such as Postman or Insomnia. To view the results 
+of my tests please examine the `testing_imgs` folder above.
+
 ## Author
 Luke Thurston
 
